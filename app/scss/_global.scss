@@ -1,5 +1,13 @@
 
-
 body{
+color: #436372;
+font-size: 15px;
+line-height: 30px;
+@extend %Rubik-500;
+}
 
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
 }
